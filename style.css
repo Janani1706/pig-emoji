@@ -1,0 +1,92 @@
+.main {
+}
+
+.face {
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+  background: palevioletred;
+  border-radius: 50%;
+  position: absolute;
+  margin-bottom: 500px;
+  margin-left: 525px;
+  margin-top: -53px;
+}
+.eyes {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 70px;
+}
+.leye {
+  height: 50px;
+  width: 50px;
+  background: white;
+  border-radius: 50%;
+}
+.lelid {
+  height: 25px;
+  width: 25px;
+  background: black;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 15px;
+}
+.reye {
+  height: 50px;
+  width: 50px;
+  background: white;
+  border-radius: 50%;
+}
+.relid {
+  height: 25px;
+  width: 25px;
+  background: black;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 15px;
+}
+.nose {
+  display: flex;
+  height: 40px;
+  width: 100px;
+  background: red;
+  margin: auto;
+  margin-top: 40px;
+  border: 2px solid black;
+  border-radius: 50px;
+  justify-content: space-evenly;
+}
+.lehole {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: black;
+  margin: auto;
+}
+.rehole {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: black;
+  margin: auto;
+}
+.ears {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  margin: auto;
+}
+.leftear {
+  height: 100px;
+  width: 80px;
+  background-color: palevioletred;
+  border: 2px solid black;
+  border-radius: 50% 50% 0% 0%;
+}
+.rightear {
+  height: 100px;
+  width: 80px;
+  background: palevioletred;
+  border: 2px solid black;
+  border-radius: 50% 50% 0% 0%;
+}
